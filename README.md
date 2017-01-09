@@ -17,7 +17,7 @@ Micropublication: http://oisin-mckeever.tumblr.com/post/155610137387/micropublic
 
 Takahe Bird website: http://www.oisinmckeever.com/bird-project/index.html
 
-styletile: http://wwww.oisinmckeever.com/bird-project/style-guide.html
+styletile: http://www.oisinmckeever.com/bird-project/style-guide.html
 
 Heroes & Villains website: http://www.oisinmckeever.com/heroes_and_villains/index.html
 
