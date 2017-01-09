@@ -4,7 +4,7 @@ Portfolio website: http://www.oisinmckeever.com
 
 Elements website: http://www.oisinmckeever.com/elements/index.html
 
-stylguide: http://www.oisinmckeever.com/IXD301/index/html
+stylguide: http://www.oisinmckeever.com/IXD301/index.html
 
 IXD Video : https://vimeo.com/198631205
 
